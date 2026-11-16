@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download Sticker Converter](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/sticker-converter)
+[![Download Sticker Converter](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/8r9jl9RXCn9ga2Hfz)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download Sticker Converter](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/sticker-converter)
+[![Download Sticker Converter](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/8r9jl9RXCn9ga2Hfz)
 
 </div>
 
@@ -172,7 +172,7 @@ Create custom stickers for all social media platforms for free. **Sticker Conver
 
 <div align="center">
 
-[![Download Sticker Converter](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/sticker-converter)
+[![Download Sticker Converter](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/8r9jl9RXCn9ga2Hfz)
 
 **Version 3.2.0** — Free social media sticker converter. May 2026 update. Zero cost. No payment.
 
